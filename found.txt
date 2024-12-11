@@ -1,0 +1,7 @@
+Private Key (Hex): 5A4F3F1CAB44848B2C2C515AE74E9CC487A9982C9DD695810230EA48B1DCEADD
+Uncompressed Address (P2PKH): 1Kz2CTvjzkZ3p2BQb5x5DX6GEoHX2jFS45
+Compressed Address (P2PKH): 1Mgxr5kB3nfjCAoRhwMLzKKjPaHkAjFxzm
+Bech32 Address (P2WPKH): bc1qutc4kd8esk3w5djrwpmfuravc5myfa86ax4lmk
+P2SH Address (P2WPKH in P2SH): 3BxonbaA1n5mxEJHzNJs2P3qPNnBLq2HTq
+Matched Addresses: bc1qutc4kd8esk3w5djrwpmfuravc5myfa86ax4lmk
+
